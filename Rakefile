@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "monkey_translator"
   gem.homepage = "http://github.com/jerrydeng/monkey_translator"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "Google Translate monkey patch Ruby String"
+  gem.description = "Using Google Translate API to translate any ruby String to any other language"
   gem.email = "jerrydeng93@gmail.com"
   gem.authors = ["Jerry Deng"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,

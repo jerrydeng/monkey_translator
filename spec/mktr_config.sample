@@ -1,0 +1,5 @@
+CONFIGURATIONS = {
+  :key => "your-google-api-key",
+  :source_language => "en",
+  :destination_language => "zh-CN"
+}
